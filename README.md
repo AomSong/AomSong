@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100002376748202"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100002376748202"><img  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=100002376748202"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=100002376748202"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ## Languages and Tools 
