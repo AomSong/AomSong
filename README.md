@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Nattapong</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Nattapong</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
