@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="left">Programming Languages 
-<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40">
+<img src="https://media.giphy.com/media/JmPDrWeMxFlwDjBE3q/giphy.gif" width="40px" height="40">
 <img src="https://media.giphy.com/media/Rq1qDYKTTp3MWZ9mgI/giphy.gif" width="40px" height="40">
 </h2> 
 
