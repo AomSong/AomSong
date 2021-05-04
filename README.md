@@ -7,7 +7,7 @@
 <a href="https://twitter.com/AomSong_98"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hcysunyang&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" />
 
 <h2 align="left">Programming Languages 
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
