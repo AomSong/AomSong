@@ -33,7 +33,6 @@
 <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/EM082K8c6IGLj9B7wc/giphy.gif" width="400px"  height="500px"/>
 <h2 align="left">Graphic Design
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/g9BUk2hCkuD31UoL6U/giphy.gif" width="50px" height="50px">
@@ -44,6 +43,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
+<img align="right" src="https://media.giphy.com/media/EM082K8c6IGLj9B7wc/giphy.gif" width="400px"  height="500px"/>
 <h2 align="left">Database
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif" width="70px" height="50px">
