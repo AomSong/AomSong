@@ -34,7 +34,7 @@
 
 <h2 align="left">Mobile App Development
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
-<img src="https://media.giphy.com/media/KAGPTMLJg4yAH4ED5I/giphy.gif" width="70px" height="50px">
+<img src="https://media.giphy.com/media/KAGPTMLJg4yAH4ED5I/giphy.gif" width="70px" height="70px">
 </h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
 
