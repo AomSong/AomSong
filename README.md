@@ -23,6 +23,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 </p>
 
+<img align="right" src="https://media.giphy.com/media/EM082K8c6IGLj9B7wc/giphy.gif" />
 <h2 align="left">Framework
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/AUIz9gccwIIuKHV219/giphy.gif" width="50px" height="50px">
@@ -33,7 +34,6 @@
 <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/EM082K8c6IGLj9B7wc/giphy.gif" />
 <h2 align="left">Graphic Design
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/g9BUk2hCkuD31UoL6U/giphy.gif" width="50px" height="50px">
