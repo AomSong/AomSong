@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="350px"  height="450px"/>
+<img align="right" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="340px"  height="450px"/>
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Nattapong Saelee</h1>
 <br>
 
