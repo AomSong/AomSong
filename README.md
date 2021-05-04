@@ -22,7 +22,7 @@
 
 <h2 align="left">Graphic Design
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
-<img src="https://media.giphy.com/media/4T7zBZPXI1ky3G6psz/giphy-downsized-large.gif" width="70px" height="70px">
+<img src="https://media.giphy.com/media/g9BUk2hCkuD31UoL6U/giphy.gif" width="70px" height="70px">
 </h2>
 <p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
