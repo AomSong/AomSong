@@ -33,7 +33,7 @@
 <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/4T7zBZPXI1ky3G6psz/giphy-downsized-large.gif" />
+<img align="right" src="https://media.giphy.com/media/4T7zBZPXI1ky3G6psz/source.gif" />
 <h2 align="left">Graphic Design
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/g9BUk2hCkuD31UoL6U/giphy.gif" width="50px" height="50px">
