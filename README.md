@@ -9,7 +9,7 @@
 
 <h2 align="left">Programming Languages 
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
-<img src="https://media.giphy.com/media/Rq1qDYKTTp3MWZ9mgI/giphy.gif" width="70px" height="70px">
+<img src="https://media.giphy.com/media/Rq1qDYKTTp3MWZ9mgI/giphy.gif" width="70px" height="50px">
 </h2> 
 
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -26,7 +26,6 @@
 </h2>
 <p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<br>
 <h2 align="left">Database
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif" width="70px" height="50px">
@@ -35,7 +34,7 @@
 
 <h2 align="left">Mobile App Development
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
-<img src="https://media.giphy.com/media/0dEFGudqmLo9xEBazh/giphy.gif" width="70px" height="70px">
+<img src="https://media.giphy.com/media/0dEFGudqmLo9xEBazh/giphy.gif" width="70px" height="50px">
 </h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
 
