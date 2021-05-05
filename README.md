@@ -1,4 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="340px"  height="450px"/>
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Nattapong Saelee</h1>
 <br>
 
@@ -33,7 +32,6 @@
 <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/EM082K8c6IGLj9B7wc/giphy.gif" width="395px"  height="500px"/>
 <h2 align="left">Graphic Design
 <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/g9BUk2hCkuD31UoL6U/giphy.gif" width="50px" height="50px">
