@@ -8,7 +8,6 @@
 </p>
 
 <h2 align="left">Programming Languages 
-<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/Rq1qDYKTTp3MWZ9mgI/giphy.gif" width="60px" height="60px">
 </h2> 
 
@@ -23,7 +22,6 @@
 </p>
 
 <h2 align="left">Framework
-<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/AUIz9gccwIIuKHV219/giphy.gif" width="50px" height="50px">
 </h2>
 <p align="left"> 
@@ -33,7 +31,6 @@
 </p>
 
 <h2 align="left">Graphic Design
-<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/g9BUk2hCkuD31UoL6U/giphy.gif" width="50px" height="50px">
 </h2>
 <p align="left"> 
@@ -43,7 +40,6 @@
 </p>
 
 <h2 align="left">Database
-<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/MBCodZbEhb2jSNUZNd/giphy.gif" width="70px" height="50px">
 </h2>
 <p align="left"> 
@@ -52,14 +48,12 @@
 </p>
 
 <h2 align="left">Mobile App Development
-<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/0dEFGudqmLo9xEBazh/giphy.gif" width="50px" height="50px">
 </h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
 
 
 <h2 align="left">Other
-<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width="40px" height="40px">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55px" height="40px">
 </h2>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
